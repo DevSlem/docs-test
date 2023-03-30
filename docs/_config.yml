@@ -1,0 +1,13 @@
+remote_theme: rundocs/jekyll-rtd-theme
+
+title: AINE-DRL
+url: https://devslem.github.io
+baseurl: /AINE-DRL
+
+readme_index:
+  with_frontmatter: true
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
