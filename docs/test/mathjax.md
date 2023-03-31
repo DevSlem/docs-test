@@ -41,6 +41,8 @@ What the hell \$$ 5 + 5 $$ is going on?
 
 inline math test \( x + y \) works?
 
+It's inline? $$ x + y $$ why? $$ \lambda $$
+
 ```note
 For documentation, see: https://kramdown.gettalong.org/syntax.html#math-blocks
 ```
