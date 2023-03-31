@@ -39,6 +39,8 @@ But next comes a paragraph with an inline math statement:
 
 What the hell \$$ 5 + 5 $$ is going on?
 
+inline math test \( x + y \) works?
+
 ```note
 For documentation, see: https://kramdown.gettalong.org/syntax.html#math-blocks
 ```
