@@ -21,6 +21,22 @@ $$
 \end{aligned}
 $$
 
+The following is a math block:
+
+$$ 5 + 5 $$
+
+But next comes a paragraph with an inline math statement:
+
+\$$ 5 + 5 $$ end $$3 + 2 $$ the following:
+
+The following is a math block:
+
+$$ 5 + 5 $$
+
+But next comes a paragraph with an inline math statement:
+
+\$$ 5 + 5 $$ \$$ 9 + 9 $$
+
 ```note
 For documentation, see: https://kramdown.gettalong.org/syntax.html#math-blocks
 ```
